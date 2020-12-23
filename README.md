@@ -10,7 +10,7 @@ Play it [here](https://andysterks.github.io/JS-Tetris)
 
 <br>
 
-<image src="images/game_play_crop.png">
+<image src="screenshot.png">
 
 ## Summary
 
