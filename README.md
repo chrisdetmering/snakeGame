@@ -6,7 +6,7 @@ _Classic Snake App game written entirely in pure Javascript, HTML and CSS_
 
 <br>
 
-Play it [here](https://andysterks.github.io/JS-Tetris)
+Play it [here](https://chrisdetmering.github.io/snakeGame/)
 
 <br>
 
